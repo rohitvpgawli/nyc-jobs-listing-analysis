@@ -1,6 +1,6 @@
 import { atlas } from "../lib/data";
 
-const REPO_URL = "https://github.com/rohitgawli/nyc-startups-hiring";
+const REPO_URL = "https://github.com/rohitvpgawli/nyc-jobs-listing-analysis";
 
 export default function Methodology() {
   return (
@@ -39,7 +39,7 @@ export default function Methodology() {
             <h3>Reproduce it</h3>
             <p>
               Pipeline, data, taxonomy, and this site are open source:{" "}
-              <a href={REPO_URL}>github.com/rohitgawli/nyc-startups-hiring</a>. One command re-collects and
+              <a href={REPO_URL}>github.com/rohitvpgawli/nyc-jobs-listing-analysis</a>. One command re-collects and
               rebuilds everything.
             </p>
           </div>

@@ -116,7 +116,7 @@ function ChartCard() {
       <div style={{ ...S.mono, fontSize: 18, color: "#6d6a62", marginTop: 48, lineHeight: 1.6 }}>
         Source: public YC directory (yc-oss API) + Work at a Startup job postings · YC-backed, AI-tagged,
         NYC-located, actively hiring · keyword + manual classification · full method &amp; data:
-        github.com/rohitgawli/nyc-startups-hiring
+        github.com/rohitvpgawli/nyc-jobs-listing-analysis
       </div>
     </div>
   );
