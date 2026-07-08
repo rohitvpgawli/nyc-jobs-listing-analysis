@@ -1,0 +1,28 @@
+# Raw scraped data stays local (source terms / licensing)
+data/raw/
+data/interim/
+
+# LLM response cache (reproducible but bulky)
+data/cache/
+
+# Local-only files with full JD text
+*.local.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+site/dist/
+site/tsconfig.tsbuildinfo
+
+# Env / secrets (keep .env.example in repo)
+.env
+.env.local
+!.env.example
+
+# OS
+.DS_Store

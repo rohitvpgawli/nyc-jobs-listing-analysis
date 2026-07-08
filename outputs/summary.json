@@ -1,0 +1,94 @@
+{
+ "builtAt": "2026-07-08T03:31:16Z",
+ "companies": 151,
+ "jobs": 522,
+ "roleFamilies": {
+  "product_engineering": 183,
+  "gtm_sales_cs": 161,
+  "forward_deployed_solutions": 49,
+  "ops_finance_people": 32,
+  "design": 24,
+  "ai_ml_engineering": 22,
+  "product_management": 19,
+  "data_science_research": 13,
+  "founder_operator_generalist": 11,
+  "data_engineering": 4,
+  "analytics_engineering_bi": 2,
+  "other": 2
+ },
+ "operatorNeeds": {
+  "agent_workflows": 203,
+  "infra_platform": 199,
+  "reporting_bi": 115,
+  "gtm_analytics": 112,
+  "customer_implementation": 105,
+  "security_compliance": 100,
+  "model_eval_observability": 86,
+  "data_pipeline": 67,
+  "workflow_automation": 48,
+  "product_analytics": 44,
+  "internal_tools": 38,
+  "warehouse_semantic_layer": 25,
+  "metrics_governance": 15
+ },
+ "aiSurfaces": {
+  "health_ai": 294,
+  "finance_ai": 270,
+  "agents": 209,
+  "llm_applications": 151,
+  "voice_audio": 109,
+  "legal_ai": 57,
+  "robotics": 36,
+  "devtools_ai": 33,
+  "data_ai": 19,
+  "computer_vision": 7
+ },
+ "operatorAdjacentShare": 0.172,
+ "leadershipRoles": [
+  {
+   "company": "Closure",
+   "title": "Founding AI Engineer",
+   "flag": "founding_ai"
+  },
+  {
+   "company": "Ellipsis",
+   "title": "Founding AI Engineer",
+   "flag": "founding_ai"
+  },
+  {
+   "company": "Interfere",
+   "title": "Founding AI Engineer",
+   "flag": "founding_ai"
+  },
+  {
+   "company": "Photonium",
+   "title": "Founding ML Engineer",
+   "flag": "founding_ai"
+  },
+  {
+   "company": "Tivara",
+   "title": "Founding Backend Engineer, AI Agents",
+   "flag": "founding_ai"
+  },
+  {
+   "company": "Voiceops",
+   "title": "Founding AI Engineer",
+   "flag": "founding_ai"
+  }
+ ],
+ "agentMentionShare": 0.4,
+ "nycBreakdown": {
+  "nyc_required": 327,
+  "nyc_optional": 81,
+  "remote_us": 75,
+  "not_nyc": 39
+ },
+ "seniority": {
+  "lead": 40,
+  "mid": 254,
+  "senior": 94,
+  "head": 33,
+  "founding": 84,
+  "junior": 17
+ }
+}
