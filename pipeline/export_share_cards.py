@@ -197,7 +197,7 @@ def export_chart(atlas: dict):
     foot = (
         "Source: public YC directory (yc-oss API) + Work at a Startup postings. "
         "YC-backed, AI-tagged, NYC-located, actively hiring. "
-        "Keyword + manual classification. Full method & data: github.com/rohitgawli/nyc-startups-hiring"
+        "Keyword + manual classification. Full method & data: github.com/rohitvpgawli/nyc-jobs-listing-analysis"
     )
     y = 1100
     for line in textwrap.wrap(foot, width=118):
