@@ -19,6 +19,16 @@ node_modules/
 site/dist/
 site/tsconfig.tsbuildinfo
 
+# Private write-ups / share drafts (keep local; not for public repo)
+outputs/public-writeup.md
+outputs/report.md
+outputs/report.html
+outputs/report-assets/
+
+# Generated into site/public from local outputs/ on build
+site/public/report.html
+site/public/report-assets/
+
 # Env / secrets (keep .env.example in repo)
 .env
 .env.local

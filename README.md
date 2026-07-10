@@ -35,7 +35,7 @@ Static chart for Reddit/social:
 - `data/processed/atlas.json`: site-ready payload.
 - `data/processed/target_roles.csv`: Rohit-fit shortlist for applications/outreach.
 - `site/`: Vite + React + D3 scrollytelling artifact.
-- `outputs/report.md`: narrative, LinkedIn/X/Reddit drafts, and QA notes.
+- `outputs/summary.json` / `outputs/charts/`: headline stats and share-card PNGs.
 - `methodology.md`: inclusion rules, taxonomy, caveats, reproducibility.
 
 Raw job-description text and raw source responses are gitignored; the public repo ships derived labels, counts, titles, and source URLs.
